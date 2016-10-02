@@ -1,5 +1,7 @@
 ## personr
 
+[![Travis-CI Build Status](https://travis-ci.org/danimad/personr.svg?branch=master)](https://travis-ci.org/danimad/personr)
+
 My personel R package containing useful R functions.  
 Very experimental, and badly documented.  
 Made with the help from the tutorials of [Hilary Parker](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) 
