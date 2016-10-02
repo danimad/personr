@@ -3,7 +3,8 @@ Type: Package
 Date: 2016-10-02
 Title: Daniel Berecz's personal R package
 Version: 0.1
-Author@R: "Daniel Berecz <daniel.berecz@gmail.com> [aut, cre]"
+Author: Daniel Berecz <daniel.berecz@gmail.com>
+Maintainer: Daniel Berecz <daniel.berecz@gmail.com>
 Description: Misc. useful functions.
   Made with the help from the tutorials of Hilary Parker 
   (https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) 
